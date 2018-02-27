@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Crate" size="2.000000 1.995323" />
+    <ImageTarget name="Stone" size="2.000000 1.995323" />
+    <ImageTarget name="Fire" size="2.000000 1.995323" />
+    <ImageTarget name="TreeNone" size="2.000000 2.216995" />
+    <ImageTarget name="TreeLeaf" size="2.000000 2.216995" />
+    <ImageTarget name="Fence4" size="2.000000 1.094608" />
+    <ImageTarget name="Fence3" size="2.000000 1.094608" />
+    <ImageTarget name="Fence2" size="2.000000 1.094608" />
+    <ImageTarget name="Fence1" size="2.000000 1.094608" />
+    <ImageTarget name="Camp" size="2.000000 2.670342" />
+  </Tracking>
+</QCARConfig>
