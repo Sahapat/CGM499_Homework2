@@ -34,10 +34,10 @@ public class VirtualBtnHandler : MonoBehaviour, IVirtualButtonEventHandler
         switch (vb.VirtualButtonName)
         {
             case "Sleep":
-                Main.instance.SleepBtnStatus = true;
+                Main.instance.SleepBtnStatus = false;
                 break;
             case "Wakeup":
-                Main.instance.WakeBtnStatus = true;
+                Main.instance.WakeBtnStatus = false;
                 break;
         }
     }
