@@ -34,8 +34,6 @@ public class Main : MonoBehaviour
     private GameObject StartBtn;
     [SerializeField]
     private GameObject startCampfireParticle;
-    [SerializeField]
-    private Animator humanAnim;
 
     private bool _campStatus;
     public bool campStatus
